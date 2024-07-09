@@ -42,8 +42,10 @@ import publishArticle from "./projects/publish article.png";
 import tinDog from "./projects/tinDog.png";
 import simonGame from "./projects/simonGame.png";
 import personalWebsite from "./projects/personal-website.png";
+import fitnessAdmin from "./projects/fitness-admin.png";
 
 export {
+  fitnessAdmin,
   myCV,
   cvDuncan,
   linux,
